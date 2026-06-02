@@ -1,1 +1,1 @@
-"# game-assets-separator" 
+taruh semua PNG berisi aset game disini, disamping file python. run python via terminal. 
